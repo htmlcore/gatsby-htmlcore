@@ -5,4 +5,6 @@ description: Experimenting with Netlify
 ---
 ## Netlify
 
+Playing around with Gatsby to see if I can create an effective static blog.
+
 Source: <https://www.netlify.com>
