@@ -8,3 +8,5 @@ description: Experimenting with Netlify
 Playing around with Gatsby to see if I can create an effective static blog.
 
 Source: <https://www.netlify.com>
+
+![](dc-character-color-palette.jpg)
